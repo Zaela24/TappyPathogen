@@ -19,5 +19,5 @@ You are free to use, alter, or share the content however you'd like for commerci
 
 ## Licensing of non-artwork components
 
-Although I did change some things, the code I work is very similar to the tutorial I linked above.
+Although I did change some things, the code I wrote is very similar to the tutorial I linked above.
 Due to the fact that the original creator of the tutorial never explicitly licensed his work, I do not feel comfortable explicitly licensing any of the work I've done here, aside from the artwork.
