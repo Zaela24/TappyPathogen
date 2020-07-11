@@ -2,7 +2,7 @@
 
 This is a short project I did in Unity while following with [Renaissance Coders' YoutTube tutorial](https://www.youtube.com/watch?v=A-GkNM8M5p8&t=1120s)
 
-I will be publishing this project to Google's Play Store soon, and will update here with a link to the store page once it is published.
+Feel free to download the finished version [on Google Play](https://play.google.com/store/apps/details?id=com.zaelaapps.TappyPathogen)
 
 ![Game Over Screenshot](GameOverScreenshot.png)
 
