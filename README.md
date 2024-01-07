@@ -1,5 +1,11 @@
 # Tappy Pathogen
 
+## Privacy Policy
+
+This app currently does not collect any personal information.
+
+## About
+
 This is a short project I did in Unity while following with [Renaissance Coders' YoutTube tutorial](https://www.youtube.com/watch?v=A-GkNM8M5p8&t=1120s)
 
 Feel free to download the finished version [on Google Play](https://play.google.com/store/apps/details?id=com.zaelaapps.TappyPathogen)
